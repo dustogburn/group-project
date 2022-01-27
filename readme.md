@@ -1,4 +1,4 @@
-# Hey! Let's learn about GitHub commands! Gibbly Gook will Gunk up the code if not synced
+# Hey! Let's learn about GitHub commands! Gibbly Gook will Gunk up the code if not synced, oh and Dustin Ogburn is my name
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
