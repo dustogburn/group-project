@@ -1,4 +1,4 @@
-# Hey! Let's learn about GitHub commands! 
+# Hey! Let's learn about GitHub commands! Gibbly Gook will Gunk up the code if not synced
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
